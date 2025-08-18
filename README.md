@@ -1,5 +1,10 @@
-This project is my first unity project to understand the very basics of Unity. 
-It is not finished and probably will not :)
-It is played with 2 players. There are 3 different gamemodes currently. 1v1 3v3 and 5v5. This indicates how many characters a player can select.
-Each player bans and selects different characters from 60 of them and try to make the best combination.
-The aim is to destroy all characters of enemy team and win the game.
+My first Unity project, developed as a learning-oriented prototype to understand the fundamentals of Unity and object-oriented design.
+2-player game with three modes: 1v1, 3v3, 5v5
+Turn-based combat with damage calculation
+Character draft system: players ban and pick from a pool of 60 unique characters
+Objective: eliminate all enemy characters to win
+Practiced object-oriented principles in Unity (base classes, parent–child class hierarchy, interfaces)
+Explored modular code design for reusability and scalability
+Implemented core mechanics like character selection, damage handling, and team composition logic
+
+(Project unfinished, created mainly for learning and experimentation.)
